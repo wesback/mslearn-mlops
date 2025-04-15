@@ -44,8 +44,7 @@ By completing this challenge, you'll learn how to:
 ## Instructions
 
 Use feature-based development to better govern changes made to the repo and the triggering of GitHub Actions.
-
-- Create a GitHub Actions workflow which is triggered by the creation of a pull request. 
+uest. 
 
     The workflow will be used for code verification in the next challenge. For now, you can include whatever step you want. For example, use the `echo` command:
 
